@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsYogi-React-App/static/css/main.e6c13ad2.css",
+    "main.js": "/newsYogi-React-App/static/js/main.1e6143f1.js",
+    "static/js/787.03c137aa.chunk.js": "/newsYogi-React-App/static/js/787.03c137aa.chunk.js",
+    "static/media/loading.gif": "/newsYogi-React-App/static/media/loading.3fb26d9b3c3c823ae786.gif",
+    "index.html": "/newsYogi-React-App/index.html",
+    "main.e6c13ad2.css.map": "/newsYogi-React-App/static/css/main.e6c13ad2.css.map",
+    "main.1e6143f1.js.map": "/newsYogi-React-App/static/js/main.1e6143f1.js.map",
+    "787.03c137aa.chunk.js.map": "/newsYogi-React-App/static/js/787.03c137aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e6143f1.js"
+  ]
+}
